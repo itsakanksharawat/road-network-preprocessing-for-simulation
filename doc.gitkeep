@@ -1,1 +1,19 @@
+run_pipeline
+"""
+Run full preprocessing pipeline
+"""
+
+print("STEP 1: Data Gathering")
+from src.step1_data_gathering import main as step1
+step1()
+
+print("\nSTEP 2: Raw Graph Analysis")
+from src.step2_raw_analysis import main as step2
+step2()
+
+print("\nSTEP 3: Topology Cleaning")
+from src.step3_topology_cleaning import main as step3
+step3()
+
+print("\nPipeline completed successfully.")
 
