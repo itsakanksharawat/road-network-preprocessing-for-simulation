@@ -19,7 +19,7 @@ before applying any simulation or AI models.
 - NetworkX
 - GeoPandas, Shapely
 
-## Results
+## Result
 - Significant reduction in node and edge count
 - Measurable reduction in preprocessing overhead
 
