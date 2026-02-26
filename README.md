@@ -7,7 +7,7 @@ simulation-ready format through systematic preprocessing and topology optimizati
 The focus is on handling messy data, reducing graph complexity, and improving preprocessing efficiency
 before applying any simulation or AI models.
 
-### Pipeline
+## Pipeline
 1. Extract raw road network data from OpenStreetMap
 2. Analyze graph structure and identify inefficiencies
 3. Clean topology by removing micro-segments and merging redundant intersections
