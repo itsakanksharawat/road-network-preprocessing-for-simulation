@@ -5,7 +5,7 @@ This project demonstrates how large-scale, real-world road network data can be t
 simulation-ready format through systematic preprocessing and topology optimization.
 
 The focus is on handling messy data, reducing graph complexity, and improving preprocessing efficiency
-before applying any simulation or AI models.
+before applying any simulation or AI model.
 
 ## Pipeline
 1. Extract raw road network data from OpenStreetMap
