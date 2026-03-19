@@ -14,9 +14,9 @@ before applying any simulation or AI model.
 4. Benchmark preprocessing performance before and after cleaning
 
 ## Tech Stack
-- Python
-- OpenStreetMap (via OSMnx)
-- NetworkX
+- Python,
+- OpenStreetMap (via OSMnx),
+- NetworkX,
 - GeoPandas, Shapely
 
 ## Result
