@@ -13,7 +13,7 @@ before applying any simulation or AI model.
 3. Clean topology by removing micro-segments and merging redundant intersections
 4. Benchmark preprocessing performance before and after cleaning
 
-## Tech Stack
+### Tech Stack
 - Python,
 - OpenStreetMap (via OSMnx),
 - NetworkX,
