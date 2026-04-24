@@ -6,6 +6,7 @@ Raw road network data from OpenStreetMap contains excessive node density due to 
 ---
 
 ## 🚀 Solution
+
 This project builds a **graph simplification and evaluation pipeline** that reduces structural complexity while preserving routing correctness.
 
 It:
